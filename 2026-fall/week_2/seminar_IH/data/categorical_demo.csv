@@ -1,0 +1,421 @@
+experience,industry,city,education,salary
+21,Banking,Moscow,Master,280.77
+5,Retail,Moscow,Master,137.8
+17,IT,Saint Petersburg,Bachelor,220.64
+0,Manufacturing,Moscow,Master,162.03
+14,IT,Moscow,Bachelor,236.82
+14,IT,Saint Petersburg,Master,198.19
+9,Manufacturing,Kazan,Bachelor,120.94
+25,IT,Moscow,Bachelor,312.02
+22,Banking,Saint Petersburg,Bachelor,244.23
+1,Banking,Tomsk,Master,114.28
+5,Banking,Saint Petersburg,Master,166.93
+5,Banking,Tomsk,Bachelor,130.24
+23,IT,Kazan,Master,279.24
+13,Retail,Moscow,Master,163.55
+18,Retail,Moscow,Bachelor,179.86
+21,Banking,Saint Petersburg,Master,254.91
+19,Retail,Tomsk,Master,181.2
+2,Banking,Saint Petersburg,Bachelor,147.29
+3,Manufacturing,Moscow,Master,135.87
+10,Banking,Saint Petersburg,Bachelor,183.43
+8,Retail,Moscow,Master,182.65
+19,IT,Kazan,Bachelor,236.76
+4,Retail,Saint Petersburg,Master,132.5
+9,IT,Kazan,Bachelor,176.27
+6,Retail,Kazan,Master,110.97
+4,Banking,Saint Petersburg,PhD,180.7
+4,Manufacturing,Saint Petersburg,Bachelor,154.67
+5,Retail,Kazan,Master,118.86
+14,Retail,Kazan,PhD,166.98
+10,Manufacturing,Kazan,Master,157.14
+11,Manufacturing,Moscow,Bachelor,183.62
+12,Banking,Saint Petersburg,Master,198.28
+19,IT,Moscow,Bachelor,263.74
+22,IT,Kazan,Bachelor,252.41
+13,IT,Saint Petersburg,Master,246.0
+16,Retail,Moscow,Master,228.62
+19,Manufacturing,Moscow,Master,255.93
+17,Manufacturing,Moscow,Bachelor,193.18
+3,Retail,Kazan,Master,94.74
+25,Retail,Moscow,Master,246.64
+4,Manufacturing,Moscow,Bachelor,136.88
+10,Manufacturing,Tomsk,Master,137.51
+16,Banking,Kazan,Bachelor,185.05
+10,Retail,Moscow,Bachelor,146.46
+6,Manufacturing,Moscow,Master,160.91
+24,IT,Tomsk,PhD,274.32
+1,IT,Kazan,Bachelor,159.21
+6,Manufacturing,Saint Petersburg,Bachelor,145.59
+25,Manufacturing,Moscow,Bachelor,294.49
+18,Manufacturing,Moscow,Master,236.07
+2,Retail,Moscow,Bachelor,109.78
+19,IT,Kazan,Master,246.07
+25,IT,Moscow,PhD,324.62
+2,Retail,Moscow,Bachelor,122.83
+10,Retail,Kazan,Master,183.38
+12,Retail,Tomsk,Master,132.78
+3,Retail,Kazan,Master,126.46
+5,IT,Saint Petersburg,Bachelor,175.74
+4,Retail,Saint Petersburg,Bachelor,83.72
+4,IT,Moscow,Bachelor,193.87
+10,IT,Moscow,Master,250.82
+12,Banking,Saint Petersburg,Master,189.57
+6,Banking,Moscow,Bachelor,169.84
+7,Manufacturing,Saint Petersburg,Bachelor,115.94
+4,IT,Tomsk,Master,140.34
+20,Banking,Tomsk,Bachelor,223.86
+5,Retail,Moscow,Bachelor,121.6
+23,Retail,Moscow,Master,218.04
+14,Banking,Moscow,Bachelor,214.13
+20,IT,Moscow,Bachelor,250.6
+16,Banking,Moscow,Bachelor,211.53
+6,Retail,Moscow,Bachelor,148.31
+15,IT,Kazan,Master,205.09
+7,Banking,Saint Petersburg,Master,163.7
+3,Banking,Tomsk,Master,140.77
+6,Retail,Moscow,Bachelor,152.45
+7,Banking,Moscow,Master,215.29
+3,Manufacturing,Moscow,Bachelor,128.03
+0,Banking,Moscow,Master,174.87
+24,Retail,Moscow,Bachelor,210.89
+13,IT,Tomsk,Master,240.87
+10,IT,Moscow,Bachelor,189.59
+24,Banking,Moscow,Bachelor,283.91
+5,Manufacturing,Saint Petersburg,Bachelor,125.18
+10,Manufacturing,Saint Petersburg,Bachelor,198.24
+22,Banking,Saint Petersburg,Bachelor,247.64
+16,Banking,Moscow,Master,219.71
+10,Manufacturing,Kazan,Master,156.6
+6,Retail,Moscow,Bachelor,149.06
+0,Banking,Moscow,Master,176.95
+2,Banking,Saint Petersburg,Master,153.73
+4,Retail,Kazan,Master,116.8
+20,Retail,Moscow,Master,236.65
+16,Retail,Saint Petersburg,Master,192.37
+11,Manufacturing,Moscow,Master,174.72
+20,IT,Moscow,Master,263.37
+4,IT,Moscow,Master,202.23
+5,IT,Kazan,Bachelor,179.88
+10,IT,Moscow,Bachelor,239.09
+23,Banking,Kazan,Bachelor,242.03
+15,Banking,Moscow,PhD,255.17
+22,IT,Kazan,Bachelor,256.48
+6,Retail,Kazan,Master,114.0
+22,Banking,Moscow,Master,265.24
+1,IT,Moscow,PhD,185.17
+5,Retail,Moscow,Bachelor,107.52
+13,Retail,Kazan,Master,167.0
+1,Retail,Moscow,Master,131.34
+22,Manufacturing,Saint Petersburg,Bachelor,234.38
+22,Retail,Moscow,Master,242.83
+14,Banking,Kazan,Bachelor,187.37
+7,IT,Saint Petersburg,Master,210.02
+2,Retail,Saint Petersburg,Master,119.23
+16,Banking,Tomsk,Bachelor,192.43
+13,Banking,Moscow,Bachelor,191.93
+19,Banking,Kazan,Bachelor,214.65
+15,IT,Moscow,Bachelor,247.03
+3,IT,Saint Petersburg,Master,167.95
+3,Banking,Tomsk,Bachelor,120.93
+20,Manufacturing,Saint Petersburg,Bachelor,200.78
+4,Manufacturing,Saint Petersburg,Master,140.52
+24,Banking,Moscow,Master,257.75
+2,Manufacturing,Moscow,Master,175.78
+18,Banking,Moscow,PhD,284.18
+25,Manufacturing,Saint Petersburg,Bachelor,246.67
+11,Manufacturing,Saint Petersburg,Master,220.5
+1,Banking,Moscow,Bachelor,141.59
+22,Retail,Moscow,Master,287.57
+4,Manufacturing,Moscow,PhD,175.9
+13,Manufacturing,Moscow,Master,212.59
+25,Manufacturing,Moscow,Master,260.84
+19,Retail,Kazan,Master,197.7
+1,Banking,Saint Petersburg,Bachelor,147.04
+21,Manufacturing,Moscow,Master,245.95
+4,Retail,Saint Petersburg,Master,161.98
+19,Retail,Kazan,PhD,212.3
+16,IT,Moscow,Bachelor,244.87
+7,Retail,Moscow,Bachelor,123.64
+11,Banking,Moscow,Master,220.53
+3,Retail,Moscow,Bachelor,117.59
+25,Banking,Kazan,Bachelor,227.05
+6,Retail,Tomsk,Bachelor,86.02
+8,Manufacturing,Moscow,Master,231.09
+13,IT,Kazan,Bachelor,193.26
+17,Retail,Moscow,Bachelor,163.77
+13,IT,Saint Petersburg,Bachelor,199.43
+13,Manufacturing,Kazan,Master,180.07
+15,Retail,Moscow,Master,207.84
+22,IT,Moscow,Bachelor,279.99
+10,Banking,Saint Petersburg,Bachelor,189.18
+21,Banking,Tomsk,Master,216.39
+20,IT,Moscow,Bachelor,266.13
+24,Manufacturing,Moscow,Master,247.23
+23,Retail,Moscow,Bachelor,208.85
+20,Banking,Saint Petersburg,PhD,245.48
+6,Manufacturing,Saint Petersburg,Bachelor,120.61
+20,IT,Kazan,Master,270.16
+19,Manufacturing,Kazan,Bachelor,205.4
+7,Banking,Tomsk,PhD,192.58
+17,Retail,Kazan,PhD,198.71
+6,Manufacturing,Moscow,Master,186.98
+13,IT,Saint Petersburg,Bachelor,180.3
+20,Retail,Moscow,Bachelor,220.54
+4,Manufacturing,Moscow,Master,166.19
+8,Banking,Tomsk,Master,174.29
+20,Banking,Saint Petersburg,Bachelor,233.84
+11,Retail,Tomsk,Bachelor,107.23
+24,IT,Moscow,Bachelor,253.04
+0,Banking,Saint Petersburg,Master,132.18
+18,IT,Saint Petersburg,Master,265.17
+21,Retail,Moscow,Master,240.42
+23,IT,Moscow,Master,268.38
+4,IT,Saint Petersburg,Bachelor,149.34
+25,Manufacturing,Moscow,Bachelor,236.98
+10,Retail,Tomsk,Bachelor,113.57
+9,Manufacturing,Moscow,Master,163.48
+9,IT,Moscow,Bachelor,179.4
+16,Manufacturing,Kazan,Bachelor,163.21
+17,Retail,Moscow,Bachelor,191.55
+12,Banking,Tomsk,Bachelor,143.75
+1,Manufacturing,Kazan,Master,118.92
+25,IT,Moscow,Bachelor,304.05
+5,Banking,Saint Petersburg,Bachelor,128.57
+2,Banking,Saint Petersburg,Master,151.28
+15,Retail,Kazan,Bachelor,171.45
+10,Banking,Kazan,Bachelor,155.47
+16,IT,Kazan,Bachelor,202.67
+22,Banking,Saint Petersburg,Master,275.94
+2,IT,Moscow,Bachelor,164.49
+7,IT,Saint Petersburg,Master,219.88
+13,Retail,Tomsk,PhD,177.72
+20,IT,Saint Petersburg,Master,258.83
+15,Banking,Saint Petersburg,Bachelor,210.63
+9,Retail,Moscow,Master,173.77
+15,IT,Kazan,Bachelor,226.38
+25,Retail,Tomsk,Bachelor,185.13
+12,Banking,Moscow,Master,218.74
+22,Banking,Moscow,Bachelor,248.89
+20,Banking,Saint Petersburg,Bachelor,239.67
+7,IT,Saint Petersburg,Bachelor,163.55
+6,IT,Saint Petersburg,Bachelor,195.31
+20,Manufacturing,Moscow,Bachelor,233.39
+5,IT,Moscow,Master,179.3
+8,Retail,Saint Petersburg,PhD,188.75
+6,Retail,Saint Petersburg,Bachelor,162.21
+15,Banking,Saint Petersburg,Master,238.03
+7,Retail,Kazan,Bachelor,138.69
+17,IT,Saint Petersburg,Bachelor,233.54
+24,IT,Kazan,Bachelor,223.09
+21,Banking,Saint Petersburg,Bachelor,198.81
+24,Retail,Saint Petersburg,Bachelor,216.59
+0,Manufacturing,Saint Petersburg,Bachelor,101.34
+11,Banking,Moscow,Bachelor,178.54
+5,Retail,Moscow,Master,146.87
+23,Retail,Saint Petersburg,Bachelor,218.08
+18,IT,Kazan,Bachelor,196.85
+8,Retail,Saint Petersburg,Bachelor,123.92
+14,Retail,Moscow,Master,220.18
+15,Manufacturing,Saint Petersburg,Bachelor,167.64
+12,Manufacturing,Moscow,Master,218.66
+12,Banking,Kazan,Bachelor,164.27
+1,IT,Kazan,Bachelor,147.82
+11,Retail,Saint Petersburg,PhD,201.75
+9,Banking,Saint Petersburg,Bachelor,185.34
+21,IT,Moscow,Bachelor,281.36
+22,Manufacturing,Moscow,Bachelor,214.27
+19,Banking,Kazan,PhD,263.05
+0,IT,Kazan,Master,135.65
+21,Manufacturing,Saint Petersburg,Master,239.67
+10,IT,Moscow,PhD,249.65
+10,IT,Moscow,Bachelor,218.73
+24,Manufacturing,Moscow,PhD,286.07
+22,IT,Moscow,Bachelor,254.81
+1,Banking,Moscow,Master,138.7
+9,Banking,Tomsk,Bachelor,165.7
+19,Manufacturing,Saint Petersburg,Bachelor,210.35
+14,IT,Moscow,PhD,285.69
+6,Retail,Moscow,Bachelor,134.19
+13,Banking,Moscow,PhD,214.71
+22,IT,Kazan,Bachelor,260.39
+5,Manufacturing,Moscow,Master,161.33
+19,Retail,Kazan,PhD,214.16
+19,Manufacturing,Kazan,Bachelor,181.35
+23,IT,Moscow,PhD,339.6
+7,Retail,Saint Petersburg,Master,129.22
+5,Manufacturing,Tomsk,Master,126.93
+14,IT,Moscow,Bachelor,231.93
+13,IT,Moscow,Master,223.34
+10,Manufacturing,Tomsk,Master,163.95
+20,IT,Tomsk,Bachelor,254.01
+20,Retail,Saint Petersburg,Bachelor,183.17
+6,Manufacturing,Saint Petersburg,Bachelor,149.11
+20,Banking,Moscow,Master,208.51
+5,IT,Kazan,Bachelor,157.3
+10,Banking,Saint Petersburg,Master,189.37
+0,IT,Moscow,PhD,180.27
+8,Banking,Saint Petersburg,Bachelor,186.47
+24,Retail,Tomsk,Bachelor,184.13
+11,Banking,Kazan,Master,182.81
+18,Retail,Moscow,Bachelor,188.21
+2,IT,Moscow,Master,153.5
+16,IT,Tomsk,Master,202.62
+9,IT,Tomsk,Master,205.3
+19,Retail,Saint Petersburg,Bachelor,149.02
+24,IT,Saint Petersburg,Master,271.21
+13,IT,Saint Petersburg,Master,222.81
+2,Manufacturing,Moscow,Bachelor,166.39
+12,Retail,Moscow,Master,196.83
+3,Banking,Moscow,Master,162.97
+11,Manufacturing,Moscow,Master,221.48
+1,IT,Kazan,Bachelor,124.67
+16,Banking,Moscow,Bachelor,238.16
+8,IT,Moscow,Bachelor,175.54
+5,Banking,Saint Petersburg,Bachelor,171.32
+0,Banking,Moscow,Bachelor,132.69
+23,Retail,Moscow,PhD,236.49
+21,Banking,Saint Petersburg,Bachelor,228.09
+21,Manufacturing,Moscow,Master,252.99
+1,Manufacturing,Saint Petersburg,Bachelor,108.09
+9,Retail,Tomsk,Bachelor,124.97
+25,Retail,Moscow,Bachelor,219.51
+15,Retail,Tomsk,Bachelor,156.17
+3,Manufacturing,Tomsk,Master,130.96
+3,IT,Kazan,PhD,181.9
+6,Banking,Saint Petersburg,Master,167.06
+25,Retail,Saint Petersburg,Bachelor,219.73
+4,Retail,Saint Petersburg,Master,139.9
+23,Banking,Saint Petersburg,Bachelor,279.11
+17,Retail,Moscow,Master,224.91
+23,Banking,Tomsk,Master,255.57
+21,Manufacturing,Saint Petersburg,Bachelor,272.59
+8,IT,Kazan,Bachelor,182.29
+21,Banking,Moscow,Bachelor,253.72
+4,Banking,Moscow,Bachelor,172.67
+7,Banking,Saint Petersburg,Master,161.84
+5,IT,Saint Petersburg,Master,182.01
+3,Banking,Moscow,PhD,180.89
+2,IT,Moscow,Bachelor,181.66
+4,Banking,Moscow,Master,174.86
+3,IT,Saint Petersburg,Bachelor,164.49
+9,IT,Moscow,Master,242.57
+1,IT,Tomsk,Bachelor,145.54
+1,IT,Moscow,Bachelor,162.09
+25,Banking,Moscow,Master,270.94
+2,Banking,Moscow,Bachelor,170.43
+1,Banking,Saint Petersburg,Bachelor,145.93
+0,Retail,Saint Petersburg,Master,81.09
+3,Manufacturing,Saint Petersburg,Bachelor,121.36
+13,Manufacturing,Tomsk,PhD,192.98
+21,Retail,Moscow,Master,242.02
+19,Retail,Saint Petersburg,Master,221.38
+15,IT,Moscow,Master,258.11
+2,Retail,Moscow,Master,143.53
+20,Retail,Saint Petersburg,Master,211.15
+0,Manufacturing,Moscow,Master,130.87
+16,Manufacturing,Saint Petersburg,Master,205.3
+10,IT,Saint Petersburg,Bachelor,197.34
+22,Retail,Kazan,Bachelor,187.38
+7,Manufacturing,Saint Petersburg,Master,131.06
+16,IT,Saint Petersburg,Bachelor,219.85
+11,Manufacturing,Moscow,Bachelor,181.01
+13,Banking,Moscow,Bachelor,199.94
+24,Manufacturing,Moscow,Master,258.56
+18,Retail,Saint Petersburg,Bachelor,190.78
+10,Banking,Tomsk,Master,153.58
+11,Retail,Moscow,Master,148.7
+18,Banking,Saint Petersburg,Master,228.73
+8,Retail,Kazan,Bachelor,131.75
+4,Retail,Kazan,Master,146.38
+12,Retail,Saint Petersburg,Master,184.08
+1,Manufacturing,Saint Petersburg,Bachelor,90.57
+4,Banking,Saint Petersburg,Master,160.82
+10,IT,Kazan,Bachelor,187.62
+20,IT,Moscow,PhD,298.2
+20,Banking,Tomsk,Bachelor,214.71
+6,IT,Moscow,Master,191.49
+10,IT,Kazan,Master,202.17
+3,IT,Moscow,Bachelor,182.57
+19,IT,Moscow,Master,287.86
+6,Manufacturing,Moscow,Bachelor,140.5
+20,IT,Moscow,Master,271.79
+21,Manufacturing,Moscow,Master,199.33
+17,IT,Moscow,Bachelor,233.81
+8,IT,Saint Petersburg,Bachelor,177.56
+24,Retail,Moscow,Master,224.65
+17,IT,Kazan,Bachelor,220.98
+16,IT,Tomsk,Master,221.99
+22,Retail,Saint Petersburg,Master,179.33
+22,Banking,Moscow,Master,271.88
+2,IT,Moscow,Bachelor,153.29
+22,Retail,Tomsk,Master,206.74
+19,IT,Moscow,PhD,266.93
+5,Manufacturing,Moscow,Bachelor,150.54
+7,IT,Tomsk,Bachelor,154.9
+19,Manufacturing,Tomsk,Bachelor,190.46
+5,Retail,Moscow,Bachelor,132.24
+11,Manufacturing,Saint Petersburg,Master,180.41
+17,Manufacturing,Saint Petersburg,Bachelor,169.35
+16,Banking,Kazan,Master,184.41
+23,Retail,Moscow,Bachelor,209.49
+2,Banking,Moscow,Bachelor,149.85
+7,Manufacturing,Saint Petersburg,Bachelor,136.05
+25,Retail,Moscow,Master,259.25
+14,IT,Saint Petersburg,Master,229.97
+6,Manufacturing,Moscow,Bachelor,137.63
+7,Banking,Tomsk,Master,152.99
+8,Retail,Kazan,Bachelor,122.07
+14,Retail,Saint Petersburg,Bachelor,167.85
+7,Banking,Kazan,Bachelor,181.81
+16,Retail,Moscow,PhD,207.96
+11,Manufacturing,Saint Petersburg,Master,183.68
+15,Banking,Moscow,Master,240.67
+4,Retail,Kazan,Bachelor,97.58
+16,IT,Kazan,Bachelor,203.99
+24,Retail,Tomsk,Master,180.11
+3,Banking,Kazan,Bachelor,118.8
+8,Manufacturing,Tomsk,PhD,145.67
+18,Manufacturing,Moscow,Master,201.92
+16,Banking,Tomsk,Bachelor,170.68
+17,IT,Saint Petersburg,Master,231.15
+14,Retail,Moscow,PhD,220.51
+17,Retail,Saint Petersburg,Bachelor,187.82
+15,IT,Moscow,Master,236.73
+1,Banking,Moscow,Master,158.32
+19,Banking,Moscow,Bachelor,201.55
+11,Manufacturing,Moscow,Master,189.1
+1,IT,Saint Petersburg,Bachelor,159.18
+10,Manufacturing,Tomsk,Master,172.85
+11,IT,Saint Petersburg,Master,207.17
+2,Manufacturing,Saint Petersburg,Master,158.93
+25,Banking,Moscow,Bachelor,237.72
+5,Banking,Saint Petersburg,Master,147.54
+8,Manufacturing,Moscow,Bachelor,177.77
+11,Manufacturing,Kazan,Bachelor,183.08
+21,IT,Moscow,Bachelor,273.88
+19,IT,Kazan,Master,245.27
+20,IT,Kazan,Bachelor,193.49
+6,IT,Saint Petersburg,Bachelor,140.6
+21,Banking,Kazan,Master,238.33
+21,Manufacturing,Moscow,Bachelor,223.55
+12,IT,Tomsk,Bachelor,165.09
+14,Retail,Kazan,Bachelor,149.18
+0,Banking,Kazan,Bachelor,115.07
+19,Banking,Saint Petersburg,Master,257.0
+24,Retail,Kazan,Bachelor,200.46
+12,IT,Tomsk,Bachelor,207.11
+14,Retail,Moscow,PhD,210.14
+12,Banking,Kazan,Master,188.92
+2,Manufacturing,Kazan,Master,145.16
+16,Retail,Saint Petersburg,Master,172.39
+18,Manufacturing,Tomsk,Master,248.66
+24,Banking,Moscow,Bachelor,266.75
+24,IT,Saint Petersburg,Master,291.85
+12,IT,Moscow,Master,247.45
+24,Retail,Moscow,Bachelor,258.79
+13,IT,Kazan,Bachelor,212.27
+16,Banking,Moscow,Bachelor,191.11
+15,IT,Moscow,Master,278.26
+25,IT,Moscow,Master,296.86
+19,IT,Saint Petersburg,Master,261.93
