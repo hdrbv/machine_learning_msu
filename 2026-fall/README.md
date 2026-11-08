@@ -21,3 +21,8 @@
     15. Обработка естественного языка (II). Модели эмбеддингов
 </pre></big>
 
+## Domesticum
+
+[Exercitationem I](./home_assignments/ha1)
+
+
